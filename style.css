@@ -1,0 +1,15 @@
+body{
+    margin: 20px ;
+    padding: 10%;
+    
+}
+nav{
+    background-color: aquamarine;
+    box-shadow: inset 2px 3px 4px ;
+    height: 30px;
+    margin: 2px;
+    text-align: center;
+    padding: 2%;
+    font-size: 150%;
+  
+}
